@@ -300,13 +300,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📧 Support
-
-If you have any questions or need help, please:
-- Open an issue on GitHub
-- Contact me via email: your.email@example.com
-
----
 
 <div align="center">
 
